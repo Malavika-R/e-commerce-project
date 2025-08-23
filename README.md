@@ -88,9 +88,3 @@ weighted avg   0.774606  0.794328  0.782175  35192.000000
 * Improve UI/UX of the Streamlit app.
 
 ---
-
-✨ Built with passion for **ML + Cloud + Analytics**.
-
----
-
-Do you also want me to add an example **cURL / Postman request body** section in the README so others can test your AWS endpoint easily?
