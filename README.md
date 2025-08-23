@@ -27,9 +27,12 @@ This model enables:
 
 ---
 
-## 🌐 Deployment Details
+## 🤖 Model Deployment
 
-* **Model Backend**: Deployed on **AWS Lambda** with an API Gateway endpoint.
+* **AWS Lambda** used for serverless deployment.
+* **API Gateway** provides a working endpoint for integration.
+* **Streamlit frontend** interacts with the deployed model API.
+
 * **Frontend App**: Developed using **Streamlit**, accessible at:
   👉 [Customer Satisfaction Predictor App](https://e-commerce-project-nfjva46rtankjnrlt5kkia.streamlit.app)
 
@@ -57,18 +60,6 @@ This model enables:
 
 ---
 
-Perfect 👍 Thanks for sharing the model performance details and confusion matrix. Here’s the **updated README.md** with everything included:
-
----
-
-
-## 🤖 Model Deployment
-
-* **AWS Lambda** used for serverless deployment.
-* **API Gateway** provides a working endpoint for integration.
-* **Streamlit frontend** interacts with the deployed model API.
-
----
 
 ## 📊 Model Performance
 
@@ -85,26 +76,16 @@ macro avg      0.638697  0.592594  0.610953  35192.000000
 weighted avg   0.774606  0.794328  0.782175  35192.000000
 ```
 
-### Confusion Matrix
-
-![Confusion Matrix](40f84443-6f74-4b78-8664-099a107592a4.png)
-
----
-
 ✅ Overall accuracy: **\~79%**
 ✅ Good performance for "satisfied customers (0)"
-✅ Room for improvement in detecting "neutral" customers (class 1).
 
 ---
-
-Would you like me to also add a **section with tech stack and tools used (Python, Sklearn, AWS, Streamlit, Pandas, etc.)** to make the README look more professional for GitHub?
-
 
 ## 🔮 Future Improvements
 
 * Enhance feature engineering for better prediction accuracy.
+* Increase the accuracy of prediction of Class 1 (Neutral customers)
 * Improve UI/UX of the Streamlit app.
-* Deploy dataset insights on an interactive **Power BI / Tableau dashboard**.
 
 ---
 
