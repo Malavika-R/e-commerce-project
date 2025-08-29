@@ -27,7 +27,7 @@ This model enables:
 
 The data can be monitored through a Power BI Dashboard.
 
-![Power BI Dashboard]([Dashboard SS.png](https://github.com/Malavika-R/e-commerce-project/blob/main/Dashboard%20SS.png))
+[Power BI Dashboard]([Dashboard SS.png](https://github.com/Malavika-R/e-commerce-project/blob/main/Dashboard%20SS.png))
 
 ---
 
