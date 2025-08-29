@@ -25,6 +25,10 @@ This model enables:
 * **Targeted efforts**: Engaging with "neutral" and "bad" customers to reduce churn rate.
 * **Resource allocation**: Prioritizing marketing and customer service efforts effectively.
 
+The data can be monitored through a Power BI Dashboard.
+
+![Power BI Dashboard](Dashboard SS.png)
+
 ---
 
 ## 🤖 Model Deployment
